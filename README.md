@@ -5,4 +5,4 @@
 
 # liveAir Scanner: Commercial Flight Database
 
-[Powered by OpenSky API](https://openskynetwork.github.io/opensky-api/)
+[Powered by OpenSky API](https://github.com/openskynetwork/opensky-api)
